@@ -12,19 +12,19 @@
       "imageSrc": "skills/react.png"
     },
     {
-      "title": "Node",
-      "imageSrc": "skills/node.png"
+      "title": "VueJs",
+      "imageSrc": "skills/vuejs.png"
     },
     {
-      "title": "GraphQL",
-      "imageSrc": "skills/graphql.png"
+      "title": "JavaScript",
+      "imageSrc": "skills/javascript.png"
     },
     {
-      "title": "MongoDB",
-      "imageSrc": "skills/mongodb.png"
+        "title": "Flutter",
+        "imageSrc": "skills/flutter.png"
     },
     {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "title": "Docker",
+      "imageSrc": "skills/docker.png"
     }
   ]
