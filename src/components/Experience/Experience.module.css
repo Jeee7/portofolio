@@ -73,6 +73,7 @@
     background: linear-gradient(90deg, #19376d, rgba(25, 55, 109, 0) 100%);
     border-radius: 10px;
     padding: 24px;
+    transition: transform 0.4s ease, background-image 0.4s ease;
 }
 
 .historyItem img {
@@ -82,6 +83,12 @@
 .historyItemDetails h3 {
     font-size: 20px;
     font-weight: 300;
+}
+
+.historyItem:hover {
+    background-image: linear-gradient(90deg, rgba(165, 215, 232, 0.42) 0%, rgba(255, 255, 255, 0) 100%);
+    transform: scale(1.05); 
+    transition: 0.4s;
 }
 
 .historyItemDetails ul {
