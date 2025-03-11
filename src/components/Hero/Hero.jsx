@@ -7,7 +7,7 @@ export const Hero = () => {
     <section className={styles.container}>
         <div className={styles.content}>
             <h1 className={styles.title}>Hi, I'm Ziddan</h1>
-            <p className={styles.description}>I'm a Frontend Developer With 2 Years of Experience using VueJS, React and Flutter. Reach Out if you'd like to learn more!</p>
+            <p className={styles.description}>I'm a Frontend Developer with 2 years of experience in Vue.js, React, and Flutter. Let's connect and build something awesome together!</p>
             <a href="mailto:arya.ziddan7@gmail.com" className={styles.contactBtn} >Contact Me</a>
         </div>
         <img src={getImageUrl("hero/heroImage.png")} alt="Hero image of me" className={styles.heroImg} />

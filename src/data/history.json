@@ -1,29 +1,20 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
+      "role": "Mobile Developer",
+      "organisation": "Core Initiative Studio",
+      "startDate": "Jan, 2024",
       "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
+      "experiences": ["Shifted focus to mobile development with Flutter.", "Worked on mobile banking, e-wallet, and parent monitoring applications.","Previously worked as a Frontend Developer in the same company."
+    ],
+      "imageSrc": "history/logo-ci-full.png"
     },
     {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
-    },
-    {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
-      "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
-      ],
-      "imageSrc": "history/netflix.png"
+      "role": "Frontend Developer",
+      "organisation": "Core Initiative Studio",
+      "startDate": "Sep, 2022",
+      "endDate": "Present",
+      "experiences": ["Built and maintained web applications using Vue.js and React.", "Developed key features for a POS system and a salon booking app."],
+      "imageSrc": "history/logo-ci-full.png"
     }
+    
   ]

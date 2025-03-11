@@ -26,5 +26,9 @@
     {
       "title": "Docker",
       "imageSrc": "skills/docker.png"
+    },
+    {
+      "title": "Linux",
+      "imageSrc": "skills/linux-logo.png"
     }
   ]
