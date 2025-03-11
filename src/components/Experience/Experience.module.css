@@ -112,9 +112,49 @@
         justify-content: center;
     }
 
+    .skillImageContainer img {
+        width: 50%;  
+        max-width: 150px; 
+        height: auto; 
+    }
+
+    .skill p {
+        font-size: 20px;
+    }
+
     .history {
         width: 100%;
-        gap: 9px;
+        gap: 15px;  /* Mengatur jarak antar item di history */
+        padding: 0;
+    }
+
+    .historyItem {
+        display: flex;
+        flex-direction: column;  /* Mengubah flex menjadi kolom agar elemen lebih teratur di mobile */
+        align-items: center;
+        gap: 10px;
+        padding: 10px;
+        width: 100%;
+        max-width: 500px; 
+        margin: 0 auto;  
+    }
+
+    .historyItem img {
+        width: 20%; 
+        object-fit: cover;  
+    }
+
+    .historyItemDetails h3 {
+        font-size: 16px; 
+    }
+
+    .historyItemDetails p {
+        font-size: 12px; 
+    }
+
+    .historyItemDetails ul {
+        padding-left: 20px;  
+        font-size: 12px;
     }
 }
 

@@ -104,5 +104,9 @@
     .content {
         align-items: center;
     }
+    .description {
+        font-size: 24px;
+        text-align: center;
+    }
     
 }
