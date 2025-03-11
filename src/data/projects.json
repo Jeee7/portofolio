@@ -1,25 +1,65 @@
 [
     {
-      "title": "Project A",
+      "title": "Bpr Universal",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": "A Mobile Banking App by Universal BPR.",
+      "skills": ["Flutter", "BLoC"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
     {
-      "title": "Project B",
+      "title": "BrightSchools",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "description": "A Monitoring app for parent.",
+      "skills": ["Flutter",  "BLoC"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
     {
-      "title": "Project C",
+      "title": "Mode Lovers",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": "Loyalty Point App for Mode Fashion Group.",
+      "skills": ["Flutter", "Firebase", "BLoC"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Tersenyum Mobile",
+      "imageSrc": "projects/project.png",
+      "description": "An app to collect and recycle used cooking oil.",
+      "skills": ["Flutter", "Firebase", "BLoC"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "MPOS Dashboard",
+      "imageSrc": "projects/project.png",
+      "description": "Backoffice Web App based for Mode Fashion Group",
+      "skills": ["VueJS", "Typescript", "PostmanAPI"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "MPOS Cashier",
+      "imageSrc": "projects/project.png",
+      "description": " Web-based Cashier App for Mode Fashion Group",
+      "skills": ["VueJS", "Typescript", "PostmanAPI"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Maven Realstate Indonesia",
+      "imageSrc": "projects/project.png",
+      "description": "Company Profile Website for Maven Real Estate",
+      "skills": ["ReactJs", "Typescript"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Salonial Backoffice",
+      "imageSrc": "projects/project.png",
+      "description": "Admin Panel for Salonial Booking System",
+      "skills": ["VueJs", "Typescript", "PostmanAPI"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     }

@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React from 'react'
 import skills from '../../data/skills.json'
 import { getImageUrl } from '../../utils'

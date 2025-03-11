@@ -3,20 +3,25 @@
 .container {
    display: flex;
    flex-direction: column;
-   border-radius: 10px;
+   border-radius: 16px;
    background: linear-gradient(180deg, #576cbc 0%, #132a53);
    box-shadow: 0 16px 14px 0 #04152d;
    padding: 18px 24px;
-   max-width: 345px;
+   max-width: 345px;  
+}
+
+.image {
+    margin-bottom: 26px;
+}
+
+.textContainer {
+    display: flex;
+    flex-direction: column;
 }
 
 .title {
     font-size: 25px;
     font-weight: 700;
-}
-
-.image {
-    margin-bottom: 26px;
 }
 
 .description {
@@ -26,8 +31,8 @@
 }
 
 .skills {
+    margin-top: 24px;
     width: 100%;
-    margin-top: 14px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -45,7 +50,7 @@
 
 .links {
     width: 100%;
-    margin-top: 26px;
+    margin-top: auto;
     display: flex;
     justify-content: space-around;
 }
