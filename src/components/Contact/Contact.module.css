@@ -36,6 +36,13 @@
     display: flex;
     align-items: center;
     gap: 25px;
+    transition: background-color 0.4s ease, transform 0.4s ease;
+}
+
+.link:hover {
+    background-image: linear-gradient(90deg, rgba(165, 215, 232, 0.42) 0%, rgba(255, 255, 255, 0) 100%);
+    transform: scale(1.05);
+    transition: 0.4s;
 }
 
 .link a {
@@ -45,6 +52,25 @@
     font-weight: 400;
     letter-spacing: 1.5px;
 }
+
+.resumeButton {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 12px 20px;
+    background-color: #0056b3; 
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: background-color 0.4s ease, transform 0.4s ease;
+}
+
+.resumeButton:hover {
+    background-image: linear-gradient(90deg, rgba(165, 215, 232, 0.42) 0%, rgba(255, 255, 255, 0) 100%);
+    transform: scale(1.05);
+    transition: 0.4s;
+}
+
 
 @media screen and (max-width: 830px) {
     .container{

@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from 'react'
 import { getImageUrl } from '../../utils'
 import styles from './Contact.module.css'
@@ -8,6 +9,9 @@ export const Contact = () => {
         <div className={styles.text}>
             <h2>Contact</h2>
             <p>Feel Free to Reach Out!</p>
+            <a href="/resume.pdf" download className={styles.resumeButton}>
+                Get My Resume
+            </a>
         </div>
         <ul className={styles.links}>
             <li className={styles.link}>
