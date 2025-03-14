@@ -2,7 +2,7 @@
 
 .container {
     position: relative;
-    background-color: rgba(12, 12, 12, 0.6);
+    background: linear-gradient(to bottom, rgba(12, 12, 12, 0.6) 0%, rgba(12, 12, 12, 0) 100%);
     border-radius: 15px;
     padding: 73px;
     margin-top: 129px;
@@ -10,6 +10,7 @@
     margin-left: 10%;
     margin-right: 10%;
 }
+
 
 .title {
     color: var(--color-text);
