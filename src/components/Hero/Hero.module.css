@@ -49,11 +49,14 @@
 .heroImg {
     width: 50%;
     z-index: 1;
+    border-radius: 50%; /* Make it circular */
+    aspect-ratio: 1 / 1; /* Ensure it's square */
+    object-fit: cover; /* Cover the area without distortion */
 
     animation-name: floating;
     animation-duration: 3s;
     animation-iteration-count: infinite;
-    animation-timing-function: ease-in-out;   
+    animation-timing-function: ease-in-out;
 }
 
 @keyframes floating {
