@@ -8,7 +8,7 @@
       "imageSrc": "skills/css.png"
     },
     {
-      "title": "React",
+      "title": "ReactJs",
       "imageSrc": "skills/react.png"
     },
     {
@@ -30,5 +30,9 @@
     {
       "title": "Linux",
       "imageSrc": "skills/linux-logo.png"
+    },
+    {
+      "title": "React Native",
+      "imageSrc": "skills/react-native-1.png"
     }
   ]
