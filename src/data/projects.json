@@ -11,7 +11,7 @@
       "title": "BrightSchools",
       "imageSrc": "projects/project.png",
       "description": "A Monitoring app for parent.",
-      "skills": ["Flutter",  "BLoC"],
+      "skills": ["Flutter",  "BLoC", "Firebase"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
@@ -27,7 +27,15 @@
       "title": "Tersenyum Mobile",
       "imageSrc": "projects/project.png",
       "description": "An app to collect and recycle used cooking oil.",
-      "skills": ["Flutter", "Firebase", "BLoC"],
+      "skills": ["Flutter", "BLoC"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "IAI Chat Bot Mobile",
+      "imageSrc": "projects/project.png",
+      "description": "A virtual assistance mobile based for internal used.",
+      "skills": ["Flutter", "BLoC"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
