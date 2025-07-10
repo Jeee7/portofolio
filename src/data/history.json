@@ -1,9 +1,19 @@
 [
     {
+      "role": "Freelance Mobile Developer",
+      "organisation": "Core Initiative Studio",
+      "startDate": "Jun, 2025",
+      "endDate": "Present",
+      "experiences": ["Shifted to Freelance with a Full Remote Setup",
+      "Currently Working with Virtual ChatBot Assistance App"
+    ],
+      "imageSrc": "history/logo-ci-full.png"
+    },
+    {
       "role": "Mobile Developer",
       "organisation": "Core Initiative Studio",
       "startDate": "Jan, 2024",
-      "endDate": "Present",
+      "endDate": "Jun, 2025",
       "experiences": ["Shifted focus to mobile development with Flutter.", "Worked on mobile banking, e-wallet, loyalty point app, parent monitoring applications, and oil collection.","Previously worked as a Frontend Developer in the same company."
     ],
       "imageSrc": "history/logo-ci-full.png"
@@ -11,7 +21,7 @@
     {
       "role": "Frontend Developer",
       "organisation": "Core Initiative Studio",
-      "startDate": "Sep, 2022",
+      "startDate": "Jan, 2022",
       "endDate": "Present",
       "experiences": ["Built and maintained web applications using Vue.js and React.", "Developed key features for a POS system and a salon booking app."],
       "imageSrc": "history/logo-ci-full.png"

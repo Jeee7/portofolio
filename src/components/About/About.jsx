@@ -16,14 +16,14 @@ export const About = () => {
                     <img className={styles.aboutImages} src={getImageUrl("about/uiIcon.png")} alt="cursor"/>
                     <div className={styles.aboutItemText}>
                         <h3>Mobile Developer</h3>
-                        <p>1 year more of experience in mobile development with Flutter. Contributed to 5+ projects such as a Mobile Banking, Loyalty Point App, E-wallet app ,Parent Monitoring System.</p>
+                        <p>2 year of experience in mobile development with Flutter. Contributed to 5+ projects such as a Mobile Banking, Loyalty Point App, E-wallet app ,Parent Monitoring System, Virtual Assistance ChatBot.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
                     <img className={styles.aboutImages} src={getImageUrl("about/cursorIcon.png")} alt="server" />
                     <div className={styles.aboutItemText}>
                         <h3>Frontend Web Developer</h3>
-                        <p>2 years of experience building interactive web applications using Vue and React. Worked on 5+ projects like a POS System, Salon Booking System, and a Loyalty App.</p>
+                        <p>3 years of experience building interactive web applications using Vue and React. Worked on 5+ projects like a POS System, Salon Booking System, and a Loyalty App.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
